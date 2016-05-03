@@ -36,5 +36,8 @@ public class App {
 		System.out.println(value);
 		
 		cacheManager.close();
+		
+		// ok change a little
+		System.out.println("hello ");
 	}
 }
